@@ -1,0 +1,15 @@
+HTML
+<html>
+<head>
+    <title>My Profile</title>
+</head>
+ 
+<body>
+ 
+    <h1>My Details</h1>
+ 
+    <p>Name: Lakshmi</p>
+    <p>Email: lakshmiprakash@gmail.com</p>
+ 
+</body>
+</html>
